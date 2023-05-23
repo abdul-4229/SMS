@@ -1,5 +1,6 @@
 # SMS
 Student Managment System 
  
- ![CRUD APPLICATION](https://github.com/gaay4229/Crud-application/assets/128181461/0c9f1006-ad86-450b-b794-64107e3b73a6)
+![SMS](https://github.com/abdul-4229/SMS/assets/128181461/1c8a0df0-8892-4130-847d-7d94be48e147)
+
 
